@@ -1,4 +1,3 @@
-getgenv().Fill_Lock = true
 
 --// Obfuscted By Space#0234 - https://discord.gg/79fKXVuJfr  
 
